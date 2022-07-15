@@ -25,9 +25,9 @@ with seed phrase and get access to all the accounts under master key via Metamas
 use in bash
 
 ```bash
-$ docker run -it toanvtt/ethereum-bip44-python python main.py 100 seedphrase
+$ docker run -it toanalien/ethereum-bip44-python python main.py 100 seedphrase
 # example
-# $ docker run -it toanvtt/ethereum-bip44-python python main.py 100 there aeroplane curve vent formation doge possible product distinct under spirit lamp
+# $ docker run -it toanalien/ethereum-bip44-python python main.py 100 there aeroplane curve vent formation doge possible product distinct under spirit lamp
 # Index 0:
 #   Private key (hex, compressed): e2f2d3db59f6583f2c551c73193f6cf6653fb19cb78da3746fbcf1de0a1a9a1e
 #   Address: 0x3868633c3bd0c7ae01ef4429b1dab76e84e3c5d4
